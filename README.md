@@ -1,4 +1,4 @@
 ngrams
 ======
 
-    $ cat all_wth_things | ./ngrams.rb
+    $ cat all_the_things | ./ngrams.rb # maybe
