@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    n_gram (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  n_gram
